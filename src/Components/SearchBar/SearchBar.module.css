@@ -4,7 +4,7 @@
 }
 
 .span {
-  color: RGB(229, 9, 20);
+  color: RGBA(229, 9, 20,0.5%);
   padding-right: 50px;
   font-size: 250%;
   font-weight: 700;
@@ -16,12 +16,12 @@
 
 .button {
   color: aliceblue;
-  background-color: rgb(66, 64, 64);
+  background-color: rgba(66, 64, 64,.8%);
  
 }
 
 .button:hover {
-  background-color: RGB(229, 9, 20);
+  background-color: RGBA(229, 9, 20,.8%);
 }
 
 .searchBar {
